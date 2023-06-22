@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋 Welcome to the repository for the salmon fat reading data from the F/V Northwest Explorer collected in 2022 as part of the International Year of the Salmon High Seas Expedition.
+🙋 Welcome to the repository for the estimated lipid content from salmon muscle tissue collected by the F/V Northwest Explorer in 2022 as part of the International Year of the Salmon High Seas Expedition.
 
 🤖 See the metadata record for this dataset here: 
 
